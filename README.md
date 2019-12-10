@@ -5,9 +5,9 @@ This is a program that I analysit 3 questions about Airben in NEWW York City in 
 ##These are questions:
 
 *  Which neighborhood_group has the highest price?
-![alt text](https://github.com/QueenaXie/AB_NYC_2019_ANALYSIT_REPORT/to/Q1.PNG)
+![alt text](https://github.com/QueenaXie/AB_NYC_2019_ANALYSIT_REPORT/Q1.PNG)
 *  What are the reviews per month of the neighbourhood_group?
-![alt text](https://github.com/QueenaXie/AB_NYC_2019_ANALYSIT_REPORT/to/Q2.PNG)
+![alt text](https://github.com/QueenaXie/AB_NYC_2019_ANALYSIT_REPORT/Q2.PNG)
 *  What is the percentage of available room less than 30 days?
 
 ##Feedback
