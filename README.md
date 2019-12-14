@@ -1,6 +1,6 @@
-# AB_NYC_2019_ANALYSIT_REPORT
-##What is AB_NYC_2019_ANALYSIT_REPORT?
-This is a program that I analysit 3 questions about Airbnb in NEWW York City in 2019(The datasets from Kaggle).
+# Airbnb New York City 2019 ANALYSIS REPORT
+##What is Airbnb New York City 2019 ANALYSIS REPORT?
+This is a program that I analyze 3 questions about Airbnb in NEW York City in 2019(The datasets from The Kaggle).
 
 ##These are questions:
 
