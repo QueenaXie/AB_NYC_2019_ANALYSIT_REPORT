@@ -17,6 +17,9 @@ This is a program that I analyze 3 questions about Airbnb in NEW York City in 20
 *  What is the percentage of available room less than 30 days?
    The percentage of available room less than 30 days is 0.46.
 *  This means that Airbnb has quite a base of consumers. Who can blame them? Airbnb sports such affordable prices and is a good alternative to booking an expensive hotel suite. 
+
+*  There is Medium blog: https://medium.com/@queena.qmx/what-is-airbnb-new-york-city-2019-analysis-report-2bc51b822455
+
 ##Feedback
 If you have any questions, please feel free to contact me
 * email
