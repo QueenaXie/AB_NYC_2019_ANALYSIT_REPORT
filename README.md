@@ -1,35 +1,36 @@
-# Airbnb New York City 2019 ANALYSIS REPORT
-##What is Airbnb New York City 2019 ANALYSIS REPORT?
-This is a program that I analyze 3 questions about Airbnb in NEW York City in 2019(The datasets from The Kaggle).
+### Table of Contents
 
-##These are questions:
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Description](#files)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
 
-*  Which neighborhood_group has the highest price?
-![alt text](https://github.com/QueenaXie/AB_NYC_2019_ANALYSIT_REPORT/blob/master/Q1.PNG)
-* As expected, Manhattan has the highest rates and the Bronx has the lowest rates. 
-* Look at this figure we got courtesy of archinect.com:
-![alt text](https://github.com/QueenaXie/AB_NYC_2019_ANALYSIT_REPORT/blob/master/Q3.jpg)
-* As you can see, the ratios are fairly similar. You could deduce from the two figures that Airbnb rates are proportional to real estate prices. This really isn't a surprise considering that real estate owners have to charge enough money to offset the losses from owning the property.
+## Installation <a name="installation"></a>
 
-*  What are the reviews per month of the neighbourhood_group?
-*  Queens comes in first. Perhaps because many tourists like to stay close to Manhattan but not pay the Manhattan prices. 
-![alt text](https://github.com/QueenaXie/AB_NYC_2019_ANALYSIT_REPORT/blob/master/Q2.PNG)
-*  What is the percentage of available room less than 30 days?
-   The percentage of available room less than 30 days is 0.46.
-*  This means that Airbnb has quite a base of consumers. Who can blame them? Airbnb sports such affordable prices and is a good alternative to booking an expensive hotel suite. 
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
-*  There is Medium blog: https://medium.com/@queena.qmx/what-is-airbnb-new-york-city-2019-analysis-report-2bc51b822455
+## Project Motivation<a name="motivation"></a>
 
-##Feedback
-If you have any questions, please feel free to contact me
-* email
-    * (queena.qmx@gmail.com)
+This is an Udacity Nanodegree project. I chose Airbnb New York City in 2019 complete hotels dataset. 
 
-##The author
+As a travler fan,  it would be quite interesting to apply data analysis skills here. 
 
-```javascript
-  var ihubo = {
-    nickName  : "Queena",
-    site : "queena.qmx@fmail.com"
-  }
-```
+My key interests would be:
+
+1. Which neighborhood_group has the highest price?
+2. What are the reviews per month of the neighbourhood_group?
+3. What is the percentage of available room less than 30 days?
+
+## File Descriptions <a name="files"></a>
+Data.csv contains lastest edition FIFA 2019 players attributes including host_name, neighbourhood_group, price, etc
+
+There is also a notebook available here to showcsae all my work related to my three questions.
+
+## Results<a name="results"></a>
+
+The main findings of the code can be found at the [post](https://medium.com/@queena.qmx/what-is-airbnb-new-york-city-2019-analysis-report-2bc51b822455) available
+
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+
+Must give credit to Udacity courses for some of code ideas, and to kaggle/AirBnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/karangadiya/fifa19). Otherwise, feel free to use the code here as you would like!
